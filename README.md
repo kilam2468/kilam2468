@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kilam2468
+- 👋 Hi, I’m Malik
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Java, Python, and JavaScript
 - 📫 How to reach me at https://malikmichael.com/
